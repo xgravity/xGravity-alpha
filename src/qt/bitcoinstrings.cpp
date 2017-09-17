@@ -44,7 +44,7 @@ QT_TRANSLATE_NOOP("trz-core", ""
 "Execute command when the best block changes (%s in cmd is replaced by block "
 "hash)"),
 QT_TRANSLATE_NOOP("trz-core", ""
-"Listen for JSON-RPC connections on <port> (default: 17299 or testnet: 27299)"),
+"Listen for JSON-RPC connections on <port> (default: 15124 or testnet: 27299)"),
 QT_TRANSLATE_NOOP("trz-core", ""
 "Number of seconds to keep misbehaving peers from reconnecting (default: "
 "86400)"),
@@ -114,7 +114,7 @@ QT_TRANSLATE_NOOP("trz-core", "Invalid amount for -paytxfee=<amount>: '%s'"),
 QT_TRANSLATE_NOOP("trz-core", "Invalid amount for -reservebalance=<amount>"),
 QT_TRANSLATE_NOOP("trz-core", "Invalid amount"),
 QT_TRANSLATE_NOOP("trz-core", "List commands"),
-QT_TRANSLATE_NOOP("trz-core", "Listen for connections on <port> (default: 17298 or testnet: 27298)"),
+QT_TRANSLATE_NOOP("trz-core", "Listen for connections on <port> (default: 15123 or testnet: 27298)"),
 QT_TRANSLATE_NOOP("trz-core", "Loading addresses..."),
 QT_TRANSLATE_NOOP("trz-core", "Loading block index..."),
 QT_TRANSLATE_NOOP("trz-core", "Loading wallet..."),

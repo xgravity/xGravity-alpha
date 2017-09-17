@@ -1067,7 +1067,7 @@ int64 GetProofOfWorkReward(int nHeight, int64 nFees) {
     int64 nSubsidy = 0;
 
     if(nHeight > 0)  nSubsidy = 100000 * COIN;
-    if(nHeight > 10) nSubsidy =  * COIN;
+    if(nHeight > 10) nSubsidy =  500 * COIN;
 	if(nHeight > 2000) nSubsidy = 250 * COIN;
 	if(nHeight > 10000) nSubsidy = 50 * COIN;
 	if(nHeight > 20000) nSubsidy = 250 * COIN;
